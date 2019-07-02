@@ -1,0 +1,10 @@
+0 weigth 110.0 1 2
+1 height 190.0 3 koszykowka
+2 strength 80 boks rzut_mlotem
+3 endurance 80 4 bieg_na_10km
+4 endurance 60 5 bieg_na_1km
+5 speed 80 6 7
+6 strength 70 8 rzut_oszczepem
+7 dexterity 80 bieg_na_100m 9
+8 dexterity 70 rzut_dyskiem skok_o_tyczce
+9 jump 60.5 bieg_przez_plotki koszykowka
